@@ -19,7 +19,7 @@ The purpose of this analysis was to predict credit risk by employing different t
 
 - The model with the highest accuracy score was the Easy Ensemble Classifier at 0.93.
 - Precision scores were low for all models with easy ensemble classifier predicting high risk credit applications at 0.07.
-- The easy ensemble classifier boosted predicted high risk credit applications with 0.94 specificty and .91 specificity.
+- The easy ensemble classifier boosted predicted high risk credit applications with 0.94 specificty and low risk credit applications 0.91 specificity.
 - When considering the f1 score, all models performed poorly at predicting high risk credit applications, the highest f1 score being 0.02.
 
 *Accuracy of all Models*
@@ -55,4 +55,4 @@ The purpose of this analysis was to predict credit risk by employing different t
 
 ## Summary
 
-Due to the high accuracy and specificity scores of the Easy Ensemble Classifier, we recommend this model to predict high risk credit applications.
+Due to the high accuracy and specificity scores of the Easy Ensemble Classifier, we recommend this model to predict high risk credit applications using specficity scores to predict both high risk credit applications and low risk credit applications.
