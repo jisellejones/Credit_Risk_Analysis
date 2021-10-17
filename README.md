@@ -20,9 +20,15 @@ The purpose of this analysis was to predict credit risk by employing different t
 
 - Naive Random Oversampling Classification Report
 ![Naive_random_oversampling](https://github.com/jisellejones/Credit_Risk_Analysis/blob/main/Images/random_over_sampling.png)
+
 - SMOTE Oversampling Classification Report
+![SMOTE_oversampling](https://github.com/jisellejones/Credit_Risk_Analysis/blob/main/Images/smote_over_sampling.png)
+
 - Undersampling using the Cluster Centroids Algorithm Classification Report
+![undersampling_cluster_centroids](https://github.com/jisellejones/Credit_Risk_Analysis/blob/main/Images/undersampling.png)
+
 - Combination Sampling Classification Report
+![combination_sampling](https://github.com/jisellejones/Credit_Risk_Analysis/blob/main/Images/combination_sampling.png)
 
 ### Ensemble Models
 
