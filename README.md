@@ -20,10 +20,12 @@ The purpose of this analysis was to predict credit risk by employing different t
 ### Accuracy of all Models
 |   Model | Accuracy|
 |---------|---------|
-|Naive Random Oversampling|   |
-|SMOTE Oversampling|   |
-|Undersampling - Cluster Centroids| |
-|Combination Sampling | |
+|Naive Random Oversampling| 0.65 |
+|SMOTE Oversampling| 0.64  |
+|Undersampling - Cluster Centroids| 0.53 |
+|Combination Sampling | 0.64 |
+|Balanced Random Forest Classifier| 0.79 |
+|Easy Ensemble Classifier| 0.93 |
 
 
 ### Resampled Logistic Regression Models
