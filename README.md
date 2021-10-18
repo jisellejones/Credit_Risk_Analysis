@@ -3,7 +3,7 @@
 * Repo photo by [Avery Evans](https://unsplash.com/@averye457?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash
 
 ## Overview
-The purpose of this analysis was to predict credit risk by employing different techniques to train and evaluate models with unbalanced classes on a credit card credit dataset. We ran logical regression:
+The purpose of this analysis was to predict credit risk by employing different techniques to train and evaluate models with unbalanced classes on a credit card credit dataset. We ran four different logistic regression analyses and two ensemble analyses.
 
 ### Data Source
   - LendingClub
