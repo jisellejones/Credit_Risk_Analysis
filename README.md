@@ -12,7 +12,7 @@ The purpose of this analysis was to predict credit risk by employing different t
 ### Software/Libraries
   - python 3.7
   - scikit-learn vs 0.24.1
-  - imbalacned-learn vs 0.8.1
+  - imbalanced-learn vs 0.8.1
   - Jupyter Notebook vs 6.3.0
 
 ## Results
